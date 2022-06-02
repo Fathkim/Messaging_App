@@ -1,4 +1,5 @@
 # messaging_app
+<img src="./asset/images/call.png" />
 
 A new Flutter project.
 
